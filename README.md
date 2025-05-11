@@ -37,6 +37,9 @@
 #### [Hyperparameter Optimization Toolbox](https://github.com/yourusername/dataviz)
 > Collection of basic hyperparameter optimization methods used accross multiple machine learning projects
 
+#### [Personal Finance Dashboard](https://github.com/yourusername/dataviz)
+> empty
+
 #### [Master Thesis](https://github.com/yourusername/dataviz)
 > empty
 ---
