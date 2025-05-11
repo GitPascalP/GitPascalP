@@ -12,12 +12,14 @@
 
 ![Python](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/c%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql)
 ![TypeScript](https://img.shields.io/badge/typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 #### Frameworks and Tools
 
 ![Git](https://img.shields.io/badge/git-orange?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Plotly-Dash](https://img.shields.io/badge/plotly%2Fdash-%233F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
 
 #### Currently Learning: 
@@ -29,12 +31,14 @@
 
 ### Featured Projects
 
-#### [Project One](https://github.com/yourusername/project-one)
-> empty
+#### [Genetic Algorithm Playground](https://github.com/yourusername/project-one)
+> Collection of some implementations of genetic algorithms to try out and explore the field of genetic algorithms
 
-#### [Data Visualizer](https://github.com/yourusername/dataviz)
-> empty
+#### [Hyperparameter Optimization Toolbox](https://github.com/yourusername/dataviz)
+> Collection of basic hyperparameter optimization methods used accross multiple machine learning projects
 
+#### [Master Thesis](https://github.com/yourusername/dataviz)
+> empty
 ---
 
 ### Connect With Me
@@ -44,5 +48,5 @@
 ---
 
 <p align="center">
-  💻 Building with code, powered by ☕ and curiosity.
+  Footnote
 </p>
