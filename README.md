@@ -1,8 +1,4 @@
-<h1 align="left">Welcome on my Github </h1>
-
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F79A0B&width=435&lines=Placeholder+1;Placeholder+2;Placeholder+3" alt="Typing SVG" />
-</p>
+<h1 align="left">Welcome to my Github </h1>
 
 ---
 
@@ -31,25 +27,26 @@
 
 ### Featured Projects
 
-#### [Genetic Algorithm Playground](https://github.com/yourusername/project-one)
-> Collection of some implementations of genetic algorithms to try out and explore the field of genetic algorithms
+#### [Genetic Algorithm Collection](https://github.com/GitPascalP/genetic-algorithm-collection)
+> TBA - Collection of implementations of selected algorithms to try out and explore the field of genetic and evolutionary algorithms
 
-#### [Hyperparameter Optimization Toolbox](https://github.com/yourusername/dataviz)
-> Collection of basic hyperparameter optimization methods used accross multiple machine learning projects
+#### [Rust Memory Usage Tool](https://github.com/GitPascalP/rust-memory-analyzer)
+> TBA / Planning - As small tool analyzing the memory usage and organizing files on your system written in Rust 
 
-#### [Personal Finance Dashboard](https://github.com/yourusername/dataviz)
-> empty
+#### [4-Track Recorder App](https://github.com/GitPascalP/)
+> TBA / Planning - Simple audio recorder app, that can be used for recording first ideas and simple demo tracks
 
-#### [Master Thesis](https://github.com/yourusername/dataviz)
-> empty
+#### [Hyperparameter Optimization Toolbox](https://github.com/GitPascalP/hyperparameter-optimizer-collection)
+> Collection of basic hyperparameter optimization methods used across multiple machine learning projects
+
+#### [Master Thesis](https://github.com/GitPascalP/masc)
+> Code and documentation of my master thesis researching the application of reinforcement learning in model predictive control
+
 ---
 
 ### Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/yourname)](https://linkedin.com/in/yourname)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pascal-peters-linked/)](https://www.linkedin.com/in/pascal-peters-linked/)
 
 ---
 
-<p align="center">
-  Footnote
-</p>
